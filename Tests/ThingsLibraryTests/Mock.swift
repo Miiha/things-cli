@@ -1,10 +1,3 @@
-//
-//  File.swift
-//  
-//
-//  Created by Michael Kao on 22.11.20.
-//
-
 import Foundation
 import SchemeClient
 @testable import ThingsLibrary

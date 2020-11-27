@@ -1,10 +1,3 @@
-//
-//  File.swift
-//  
-//
-//  Created by Michael Kao on 15.11.20.
-//
-
 import Foundation
 
 public struct AppleScript {

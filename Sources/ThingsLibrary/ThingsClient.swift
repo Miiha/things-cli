@@ -1,10 +1,3 @@
-//
-//  File.swift
-//  
-//
-//  Created by Michael Kao on 21.11.20.
-//
-
 import Foundation
 
 struct ThingsClient {

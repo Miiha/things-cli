@@ -1,10 +1,3 @@
-//
-//  File.swift
-//  
-//
-//  Created by Michael Kao on 26.11.20.
-//
-
 import Foundation
 import XCTest
 import SchemeClient
