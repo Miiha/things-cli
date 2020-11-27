@@ -5,9 +5,6 @@ import PackageDescription
 
 let package = Package(
   name: "things",
-  products: [
-    .executable(name: "things-cli", targets: ["things"])
-  ],
   dependencies: [
     .package(url: "https://github.com/apple/swift-argument-parser", .upToNextMinor(from: "0.3.0")),
     .package(url: "https://github.com/Miiha/SchemeClient", .upToNextMinor(from: "0.0.1"))
